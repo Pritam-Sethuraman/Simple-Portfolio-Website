@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Home Page](https://user-images.githubusercontent.com/78743757/148945926-51ab3080-53a1-4374-8790-3c579bc01bda.png)
+![Home Page](https://user-images.githubusercontent.com/78743757/148955463-5aeabdbb-287b-4732-b383-958b96b346d1.png)
 
 ---
 
