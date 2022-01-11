@@ -13,6 +13,8 @@
 ---
 
 ## Description
+This is my first step into web development. I have created this static website using HTML, CSS and JavaScript.
+I have used Netlify to host this website.
 
 ---
 
